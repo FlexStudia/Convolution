@@ -1,0 +1,24 @@
+preset: 
+destination
+	unit: cm-1
+	tab: 4
+	path: some text here
+	column 1
+	start: 1200.0 cm-1
+	end: text
+	step: 10,0
+convolution
+	tab: 1.4
+	function: 7
+	ratio: 0.545454545454545454545454
+	truncation: m
+	extrapolation: -3
+	path: 3.14
+	width_1 column: 0
+	width_2 column: 0
+	width_1 start: 0
+	width_1 end: 0
+	width_2 start: 0
+	width_2 end: 0
+	width_1 const: 0
+	width_2 const: 0

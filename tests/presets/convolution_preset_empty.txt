@@ -1,0 +1,24 @@
+preset: 
+destination
+	unit: 0
+	tab: 0
+	path: 
+	column: 0
+	start: 0.0
+	end: 10.0
+	step: 1.0
+convolution
+	tab: 0
+	function: 0
+	ratio: 0.5
+	truncation: 0
+	extrapolation: 0
+	path: 
+	width_1 column: 0
+	width_2 column: 0
+	width_1 start: 1e-06
+	width_1 end: 10.0
+	width_2 start: 1e-06
+	width_2 end: 10.0
+	width_1 const: 1e-06
+	width_2 const: 1e-06

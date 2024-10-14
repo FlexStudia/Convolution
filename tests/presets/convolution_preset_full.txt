@@ -1,0 +1,24 @@
+preset: 
+destination
+	unit: 3
+	tab: 1
+	path: C:/Users/flex_virt/Dev/Convolution_dev/tests/NH_case/ref_nm.txt
+	column: 1
+	start: 1200.0
+	end: 2800.0
+	step: 10.0
+convolution
+	tab: 1
+	function: 4
+	ratio: 0.54
+	truncation: 15
+	extrapolation: 2
+	path: C:/Users/flex_virt/Dev/Convolution_dev/tests/NH_case/spectrum_micron.txt
+	width_1 column: 1
+	width_2 column: 2
+	width_1 start: 12.56
+	width_1 end: 17.85
+	width_2 start: 7.123
+	width_2 end: 10.987
+	width_1 const: 4.639
+	width_2 const: 2.123456789123456789
