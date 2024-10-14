@@ -33,3 +33,7 @@ As we use the PyQt package for free, it obliges us to use **the GNU General Publ
 You should keep this in mind when using this code.
 
 If this is not possible, there are two ways out. One: rewrite the interface code through **PySide**, where there is no obligation to use the GNU licence. Second: create your own interface based on the **core**, since the core itself we distribute under the MIT licence.
+
+# Questions
+
+Any questions and requests please send to [flex.studia.dev@gmail.com](mailto:flex.studia.dev@gmail.com).
