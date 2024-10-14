@@ -29,5 +29,7 @@ There are several possibilities for working with this code:
 # License
 
 As we use the PyQt package for free, it obliges us to use **the GNU General Public License v3.0**. This licence imposes two obligations. First: the resulting **code must be made freely available** to the public (we fulfil this obligation through this repository). Second: any code based on this code must also be **distributed under the GNU General Public License** v3.0.
+
 You should keep this in mind when using this code.
+
 If this is not possible, there are two ways out. One: rewrite the interface code through **PySide**, where there is no obligation to use the GNU licence. Second: create your own interface based on the **core**, since the core itself we distribute under the MIT licence.
