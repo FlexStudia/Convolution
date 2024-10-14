@@ -36,4 +36,4 @@ If this is not possible, there are two ways out. One: rewrite the interface code
 
 # Questions
 
-Any questions and requests please send to [flex.studia.dev@gmail.com](mailto:flex.studia.dev@gmail.com).
+Any questions and suggestions please send to [flex.studia.dev@gmail.com](mailto:flex.studia.dev@gmail.com).
