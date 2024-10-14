@@ -24,6 +24,16 @@ from tools.extrapolations import const_extrapolation, linear_extrapolation, y_ex
 from tools.array_tools import is_array_empty
 from progress_dialog import initialize_progress_dialog, update_progress, finalize_progress
 
+# GLOBALS
+version = "2.0"
+copyright = "The MIT License"
+copyright_URL = "https://opensource.org/license/mit"
+author_mail = "flex.studia.dev@gmail.com"
+bug_support_mail = "flex.studia.help@gmail.com"
+github_url = "https:github.com/FlexStudia/Convolution_core"
+__app_name__ = "Spectrum convolution core"
+__org_name__ = "Flex Studia Dev"
+__org_site__ = github_url
 
 # Main modul CLASS
 class ConvolutionCore:
